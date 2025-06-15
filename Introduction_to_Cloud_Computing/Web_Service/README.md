@@ -69,105 +69,115 @@
 3. **AWS SDKs** – Programming language-specific tools to use AWS in code.
 
 
-#  AWS Cloud Practitioner – Sample Questions with Explanations
-
----
+#  ❓ AWS Cloud Practitioner – Sample Questions with Explanations
 
 ### 1.  Which of the following are true about web services? *(Select TWO)*
 
--  Use standardized formats like XML and JSON  
--  Can be accessed via the internet or private network  
--  Are tied to a specific operating system  
--  Require installation on the user’s local device  
+- Use standardized formats like XML and JSON  
+- Can be accessed via the internet or private network  
+- Are tied to a specific operating system  
+- Require installation on the user’s local device  
 
 <details>
-  <summary>Click to view answer and explanation</summary>
-   **Correct Answers:**
-  - Web services use formats like **XML/JSON** for API communication.
-  - They are accessible over the **internet or intranet**.
+<summary>Click to view answer and explanation</summary>
 
-  ❌ **Incorrect Options:**
-  - Web services are **platform-independent**.
-  - They do **not require installation** on a user's device; they are accessed remotely.
+**Correct Answers:**
+- Web services use formats like **XML**/**JSON** for API communication.
+- They are accessible over the **internet** or **intranet**.
+
+**Incorrect Options:**
+- Web services are **platform-independent**.
+- They do **not require installation** on a user's device; they are accessed remotely.
+
 </details>
 
 ---
 
 ### 2.  Which AWS compute services allow you to run code without managing servers? *(Select TWO)*
 
--  AWS Lambda  
--  AWS Fargate  
--  Amazon RDS  
--  Amazon S3  
+- AWS Lambda  
+- AWS Fargate  
+- Amazon RDS  
+- Amazon S3  
 
 <details>
-  <summary>Click to view answer and explanation</summary>
-   **Correct Answers:**
-  - **AWS Lambda** runs code serverlessly in response to events.
-  - **AWS Fargate** allows you to run containers without managing infrastructure.
+<summary>Click to view answer and explanation</summary>
 
-  ❌ **Incorrect Options:**
-  - **Amazon RDS** is a **database** service.
-  - **Amazon S3** is an **object storage** service.
+**Correct Answers:**
+- **AWS Lambda** runs code serverlessly in response to events.
+- **AWS Fargate** allows you to run containers without managing infrastructure.
+
+**Incorrect Options:**
+- **Amazon RDS** is a **database** service.
+- **Amazon S3** is an **object storage** service.
+
 </details>
 
 ---
 
 ### 3.  Which methods can be used to access and manage AWS resources? *(Select THREE)*
 
--  AWS Management Console  
--  AWS CLI (Command Line Interface)  
--  AWS SDKs  
--  AWS CloudFormation Templates  
+- AWS Management Console  
+- AWS CLI (Command Line Interface)  
+- AWS SDKs  
+- AWS CloudFormation Templates  
 
 <details>
-  <summary>Click to view answer and explanation</summary>
-   **Correct Answers:**
-  - AWS resources can be managed through:
+<summary>Click to view answer and explanation</summary>
+
+**Correct Answers:**
+- AWS resources can be managed through:
     - **AWS Management Console**
     - **AWS CLI**
     - **AWS SDKs**
 
-  ❌ **Incorrect Option:**
-  - **CloudFormation** is used to define infrastructure as code, not directly manage it.
+**Incorrect Option:**
+- **CloudFormation** is used to define infrastructure as code, not directly manage it.
+
 </details>
 
 ---
 
 ### 4.  Which of the following are advantages of using AWS Cloud over traditional IT infrastructure? *(Select THREE)*
 
--  Pay-as-you-go pricing  
--  Global deployment in minutes  
--  Ability to scale automatically  
--  Higher capital expense up front  
+- Pay-as-you-go pricing  
+- Global deployment in minutes  
+- Ability to scale automatically  
+- Higher capital expense up front  
 
 <details>
-  <summary>Click to view answer and explanation</summary>
-   **Correct Answers:**
-  - **Pay-as-you-go** means you pay only for what you use.
-  - **Global deployment** is fast with AWS's many regions.
-  - **Auto-scaling** allows infrastructure to adapt to demand.
+<summary>Click to view answer and explanation</summary>
 
-  ❌ **Incorrect Option:**
-  - AWS **reduces** capital expense by using **operational expense (OpEx)** model.
+**Correct Answers:**
+- **Pay-as-you-go** means you pay only for what you use.
+- **Global deployment** is fast with AWS's many regions.
+- **Auto-scaling** allows infrastructure to adapt to demand.
+
+**Incorrect Option:**
+- AWS **reduces** capital expense by using an **operational expense (OpEx)** model.
+
 </details>
 
 ---
 
 ### 5.  Which AWS services belong under the **Security, Identity, and Compliance** category? *(Select TWO)*
 
--  AWS IAM  
--  Amazon Cognito  
--  Amazon CloudWatch  
--  Amazon S3  
+- AWS IAM  
+- Amazon Cognito  
+- Amazon CloudWatch  
+- Amazon S3  
 
 <details>
-  <summary>Click to view answer and explanation</summary>
-   **Correct Answers:**
-  - **IAM**: Controls access to AWS services.
-  - **Cognito**: Manages user authentication and sign-in.
+<summary>Click to view answer and explanation</summary>
 
-  ❌ **Incorrect Options:**
-  - **CloudWatch** is used for **monitoring and observability**.
-  - **S3** is a **storage** service.
+
+**Correct Answers:**
+- **IAM**: Controls access to AWS services.
+- **Cognito**: Manages user authentication and sign-in.
+
+**Incorrect Options:**
+- **CloudWatch** is used for **monitoring and observability**.
+- **S3** is a **storage** service.
+
+
 </details>

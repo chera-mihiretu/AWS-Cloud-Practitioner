@@ -67,8 +67,7 @@
    - Improve performance for users worldwide.
 
 
-# ❓ Sample Cloud Computing Questions
-# ✅ Cloud Computing Multiple Choice Questions
+# ❓ Sample Cloud Computing Questions - with answers
 
 ---
 
@@ -81,13 +80,17 @@
 
 <details>
   <summary>Click to view answer and explanation</summary>
-  ✅ **Correct Answers:**
-  - **You pay only for what you use**: Cloud computing uses a pay-as-you-go pricing model.
-  - **You can scale resources quickly and easily**: The cloud allows rapid resource provisioning based on demand.
 
-  ❌ **Incorrect Answers:**
-  - Guessing capacity and managing hardware are disadvantages of traditional computing, not cloud computing.
+   **Correct Answers:**
+   - **You pay only for what you use**: Cloud computing uses a pay-as-you-go pricing model.
+   - **You can scale resources quickly and easily**: The cloud allows rapid resource provisioning based on demand.
+
+   **Incorrect Answers:**
+   - Guessing capacity and managing hardware are disadvantages of traditional computing, not cloud computing.
+
+
 </details>
+
 
 ---
 
@@ -100,11 +103,12 @@
 
 <details>
   <summary>Click to view answer and explanation</summary>
-  ✅ **Correct Answers:**
-  - **IaaS, PaaS, and SaaS** are the three core cloud service models.
+   
+   **Correct Answers:**
+   - **IaaS, PaaS, and SaaS** are the three core cloud service models.
 
-  ❌ **Incorrect Answer:**
-  - **STaaS** is not one of the official core models, though storage is often part of IaaS.
+   **Incorrect Answer:**
+   - **STaaS** is not one of the official core models, though storage is often part of IaaS.
 </details>
 
 ---
@@ -118,13 +122,15 @@
 
 <details>
   <summary>Click to view answer and explanation</summary>
-  ✅ **Correct Answer:**
-  - **Hybrid**: This model connects cloud-based and on-premises resources.
+   
+   **Correct Answer:**
+   - **Hybrid**: This model connects cloud-based and on-premises resources.
 
-  ❌ **Incorrect Answers:**
-  - **Cloud** is fully cloud-based.
-  - **On-premises** is entirely local.
-  - **SaaS** is a service model, not a deployment model.
+   **Incorrect Answers:**
+   - **Cloud** is fully cloud-based.
+   - **On-premises** is entirely local.
+   - **SaaS** is a service model, not a deployment model.
+
 </details>
 
 ---
@@ -138,7 +144,8 @@
 
 <details>
   <summary>Click to view answer and explanation</summary>
-  ✅ **Correct Answer:**
+  
+  **Correct Answer:**
   - **Gives access to virtual machines and storage**: IaaS provides foundational computing resources.
 
   ❌ **Incorrect Answers:**
@@ -157,10 +164,11 @@
 
 <details>
   <summary>Click to view answer and explanation</summary>
-  ✅ **Correct Answer:**
+
+  **Correct Answer:**
   - **You trade capital expenses for variable expenses**: You only pay for the resources you use when you need them.
 
-  ❌ **Incorrect Answers:**
+  **Incorrect Answers:**
   - Cloud costs are variable, not fixed.
   - You don’t purchase hardware in the cloud.
   - It actually reduces IT management overhead.
